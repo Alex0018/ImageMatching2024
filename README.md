@@ -2,7 +2,8 @@ Detailed description in <ImageMatching2024_writeup.pdf>
 
 Competition: [https://www.kaggle.com/competitions/image-matching-challenge-2024/overview]
 
-NB
+
+**NB**
 
 Data can be downloaded from the competition page
 
